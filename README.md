@@ -25,7 +25,7 @@ Pessoa que contribuiu para este projeto:
 <table>
   <tr>
     <td align="center">
-        <img src="./src/images/kain perfil 2 branco azul.jpeg" width="100px;" alt="Foto Kain"/><br>
+        <img src="./kain perfil 2 branco azul.jpeg" width="100px;" alt="Foto Kain"/><br>
         <sub>
           <b>Matheus Santos</b>
         </sub>
